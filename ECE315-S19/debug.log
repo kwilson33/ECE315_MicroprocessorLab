@@ -1,0 +1,14 @@
+[0524/174401:ERROR:browser_gpu_channel_host_factory.cc(119)] Failed to launch GPU process.
+[0115/105013:ERROR:browser_gpu_channel_host_factory.cc(119)] Failed to launch GPU process.
+[0125/134140:WARNING:dns_config_service_win.cc(711)] Failed to read DnsHosts.
+[0125/145017:ERROR:dns_config_service_win.cc(750)] DNS config watch failed.
+[0129/161130:ERROR:dns_config_service_win.cc(750)] DNS config watch failed.
+[0129/165524:WARNING:dns_config_service_win.cc(711)] Failed to read DnsHosts.
+[0201/135132:ERROR:dns_config_service_win.cc(750)] DNS config watch failed.
+[0201/135135:WARNING:dns_config_service_win.cc(711)] Failed to read DnsHosts.
+[0221/160549:WARNING:dns_config_service_win.cc(711)] Failed to read DnsHosts.
+[0222/162118:WARNING:dns_config_service_win.cc(711)] Failed to read DnsHosts.
+[0222/162118:WARNING:dns_config_service_win.cc(711)] Failed to read DnsHosts.
+[0227/154130:ERROR:dns_config_service_win.cc(750)] DNS config watch failed.
+[0302/153341:ERROR:dns_config_service_win.cc(750)] DNS config watch failed.
+[0308/130917:ERROR:dns_config_service_win.cc(750)] DNS config watch failed.
